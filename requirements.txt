@@ -1,0 +1,15 @@
+flask
+flask-limiter
+requests
+langchain
+llama-index
+sentence-transformers
+transformers
+torch    # if running local model
+streamlit
+python-multipart
+Pillow
+python-dotenv
+llama-index-embeddings-huggingface
+
+

@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+It enables systems to learn, reason, and make decisions. 
+LangChain is a framework that helps developers build AI applications using large language models (LLMs).
+LlamaIndex provides tools to index, retrieve, and query data efficiently for context-aware question answering.
+Together, they can be used to build powerful multimodal AI chatbots that understand both text and images.

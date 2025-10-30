@@ -107,7 +107,7 @@ http://localhost:8501
 
 ---
 ## 📁 Project Structure
-📦 Multimodal-AI-Chatbot
+
 ├── app.py                # Flask backend
 ├── streamlit_app.py      # Streamlit frontend
 ├── requirements.txt      # Dependencies

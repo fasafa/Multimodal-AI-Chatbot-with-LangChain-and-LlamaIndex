@@ -93,6 +93,7 @@ http://localhost:8501
 
 ###  Example Usage
 ## 🗨️ Text Query
+<img width="1858" height="720" alt="Image" src="https://github.com/user-attachments/assets/9f41ddc9-eeb5-4f82-b479-0040937b003f" />
 
 
 
@@ -102,6 +103,30 @@ http://localhost:8501
 #### "Describe this image."
 
 <img width="921" height="795" alt="Image" src="https://github.com/user-attachments/assets/2a18f26c-46bf-48ee-acec-8d12c3486bbd" />
+
+
+---
+## 📁 Project Structure
+📦 Multimodal-AI-Chatbot
+├── app.py                # Flask backend
+├── streamlit_app.py      # Streamlit frontend
+├── requirements.txt      # Dependencies
+├── README.md             # Documentation
+└── /myenv                # Virtual environment 
+
+---
+## ⚡ Future Enhancements
+
+Add voice input/output
+
+Integrate LangChain agents for context-aware chat
+
+Enable chat memory using LlamaIndex
+
+Add drag & drop image upload and history view
+
+
+
 
 
 

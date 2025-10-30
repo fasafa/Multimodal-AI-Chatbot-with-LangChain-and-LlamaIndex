@@ -91,8 +91,17 @@ http://localhost:8501
 ---
 
 
-##  Example Usage
-🗨️ Text Query
+###  Example Usage
+## 🗨️ Text Query
+
+
+
+## 🖼️ Image Query
+
+#### Upload an image and ask:
+#### "Describe this image."
+
+<img width="921" height="795" alt="Image" src="https://github.com/user-attachments/assets/2a18f26c-46bf-48ee-acec-8d12c3486bbd" />
 
 
 
